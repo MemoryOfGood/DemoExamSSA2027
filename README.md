@@ -5,8 +5,8 @@
 **Рисунок 1**
 
 
-[О. Подготовка][]
-Задание 1. Настройка сетевой инфраструктуры
+[О. Подготовка](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/f1d115270663a526ce06642d5988bc0b52bf028b/0.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0.md)  
+## Задание 1. Настройка сетевой инфраструктуры  
 [1. Произведите базовую настройку устройств](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/1.md)  
 [2. Настройте доступ к сети Интернет, на маршрутизаторе ISP](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/2.md)  
 [3. Создайте локальные учетные записи на серверах HQ-SRV и BR-SRV](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/3.md)  
@@ -19,5 +19,5 @@
 [10. Настройте инфраструктуру разрешения доменных имён для офисов HQ и BR](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/10.md)  
 [11. Настройте часовой пояс на всех устройствах](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/11.md)  
 
-Задание 2. Организация сетевого администрирования
+## Задание 2. Организация сетевого администрирования
 WIP
