@@ -13,7 +13,7 @@
 [4. Настройте коммутацию в сегменте HQ следующим образом](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/4.md)  
 [5. Настройте безопасный удаленный доступ на серверах HQ-SRV и BR-SRV](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/4.md)  
 [6. Между офисами HQ и BR, на маршрутизаторах HQ-RTR и BR-RTR необходимо сконфигурировать ip туннель](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/6.md)  
-[7. Обеспечьте динамическую маршрутизацию на маршрутизаторахHQ-RTR и BR-RTR и межсетевом экране BR-FW](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/7.md)  
+[7. Обеспечьте динамическую маршрутизацию на маршрутизаторах HQ-RTR и BR-RTR и межсетевом экране BR-FW](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/7.md)  
 [8. Настройка динамической трансляции адресов на маршрутизаторах HQ-RTR и BR-RTR](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/8.md)  
 [9. Настройте протокол динамической конфигурации хостов для сети в сторону HQ-CLI](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/9.md)  
 [10. Настройте инфраструктуру разрешения доменных имён для офисов HQ и BR](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/b43cff60336942cbb21cc24116ea5228be30b4d6/Module%201/10.md)  
