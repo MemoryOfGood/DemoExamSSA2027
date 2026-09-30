@@ -7,6 +7,10 @@
 
 ## [Отдельно. Подготовка](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/main/0.md)  
 ## Задание 1. Настройка сетевой инфраструктуры  
+
+> [!NOTE]
+> Для настройки mikrotik также будут добавленны скриншоты настройки через [Winbox](https://mikrotik.com/download/winbox)
+
 [1. Произведите базовую настройку устройств](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/main/Module%201/1.md)  
 [2. Настройте доступ к сети Интернет, на маршрутизаторе ISP](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/main/Module%201/2.md)  
 [3. Создайте локальные учетные записи на серверах HQ-SRV и BR-SRV](https://github.com/MemoryOfGood/DemoExamSSA2027/blob/main/Module%201/3.md)  
